@@ -75,6 +75,9 @@
     height: 230px;
 }
 
+
+
+
 @media (max-width: 768px) {
     .description{
         margin: 10px;
@@ -121,5 +124,10 @@
         margin-bottom: 20px;
         height: 180px;
     }
+
+    #nav-ppal{
+        display: block;
+    }
+   
 }
 
